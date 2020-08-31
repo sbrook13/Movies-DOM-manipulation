@@ -1,0 +1,13 @@
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around
+}
+
+img {
+   width : 200px
+}
+
+.card {
+    width: 200px
+}
